@@ -27,7 +27,7 @@
     "debug": "^2.2.0",
     "es6-promise-series": "^0.2.0",
     "minimatch": "^3.0.0",
-    "mithril-node-render": "^2.1.0",
+    "mithril-node-render": "git+https://github.com/nerevu/mithril-node-render.git#6556b35",
     "require-from-string": "^2.0.2"
   },
   "devDependencies": {
